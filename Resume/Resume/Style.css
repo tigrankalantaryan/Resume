@@ -86,5 +86,9 @@
     border-radius:100px 100px 100px 100px;
     margin-left:20px;
     text-align:center;
+    padding-top:12px;
+}
+.info {
+    font-size:14px;
     
 }
