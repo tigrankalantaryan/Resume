@@ -65,11 +65,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="asd.jpg" />
+    <Content Include="images\1.jpg" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\3.jpg" />
+    <Content Include="images\4.jpg" />
+    <Content Include="images\asd.jpg" />
+    <Content Include="images\jk 11.jpg" />
     <Content Include="index.html" />
-    <Content Include="jk - Copy.jpg" />
-    <Content Include="jk.jpg" />
-    <Content Include="ph.jpg" />
+    <Content Include="images\jk - Copy.jpg" />
+    <Content Include="images\jk.jpg" />
+    <Content Include="images\ph.jpg" />
     <Content Include="Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
