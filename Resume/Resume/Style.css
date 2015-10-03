@@ -90,5 +90,6 @@
 }
 .info {
     font-size:14px;
-    
+    font-style:normal;
+    padding:5px;
 }
