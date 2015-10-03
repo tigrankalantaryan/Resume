@@ -1,7 +1,7 @@
 ﻿body {
 }
 .All {
-    width:800px;
+    width:900px;
     margin:0 180px;
 }
 .Header {
@@ -75,6 +75,7 @@
 
 .about {
     margin-top:45px;
+
 }
 .ubbt {
     text-shadow:1px 1px 5px black;
@@ -89,7 +90,51 @@
     padding-top:12px;
 }
 .info {
-    font-size:14px;
+     line-height:30px;
+    font-size:16px;
     font-style:normal;
     padding:5px;
+    float:left;
 }
+.text {
+    line-height:20px;
+    text-align:left;
+    text-decoration:none;
+    margin-left:10px;
+}
+
+.nkar {
+    float:left;
+}
+
+.gic {
+
+    float:left;
+    margin-right:10px;
+    margin-top:-5px;
+}
+.erkargic {
+    margin-top:-25px;
+    float:right;
+    margin-right:10px;
+}
+
+.ubbt1 {
+    text-shadow:1px 1px 5px black;
+    height:30px;
+    width:170px;
+    background:#2a3f54;
+    color:#d7e3ef;
+    border-right-width:3px;  
+    border-radius:100px 100px 100px 100px;
+    margin-left:20px;
+    text-align:center;
+    padding-top:12px;
+    margin-top:110px;
+
+}
+.skills {
+
+}
+
+
