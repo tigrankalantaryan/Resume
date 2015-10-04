@@ -231,3 +231,46 @@
     margin-left:-300px;
 
 }
+
+.mic {
+    color:white;
+    font-size:22px;
+    width:180px;
+    height:0px;
+    margin-top:70px;
+    margin-left:30px;
+   
+   
+}
+
+.mic1 {
+    font-size:18px;
+    color:white;
+    text-align:left;
+    width:400px;
+    margin-left:360px;
+    
+}
+
+
+
+.milo {
+    font-size:18px;
+    color:white;
+    text-align:right;
+   margin-top:-28px;
+    margin-right:300px;
+    
+}
+.verj {
+    margin-top:360px;
+    margin-left:30px;
+}
+.mili {
+ 
+    color:white;
+    font-size:24px;
+    width:270px;
+    height:30px;
+    margin-top:80px;
+}
